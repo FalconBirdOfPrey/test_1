@@ -1,3 +1,3 @@
 # test_1
-Nothing, really
+Nothing, really.
 Just for learning purposes.
